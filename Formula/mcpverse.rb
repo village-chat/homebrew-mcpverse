@@ -3,8 +3,8 @@ class Mcpverse < Formula
 
   desc "Command-line interface tool for MCPVerse"
   homepage "https://github.com/village-chat/mcpverse-cli"
-  url "https://github.com/village-chat/mcpverse-cli/archive/refs/tags/v1.0.1.zip"
-  sha256 "476e1cb862ab30a56d98c8b8e174d37da924684da63f847d2c2659ccb9d98bc7"  # You'll need to update this with the actual SHA once you have a release
+  url "https://github.com/village-chat/mcpverse-cli/archive/refs/tags/v1.0.2.zip"
+  sha256 "1924c8725eb6a1429a55bac3f53c9eb8ce9e08fc7243ab6e3b7f73dd83885a71"
   license "BSD-3-Clause"
 
   depends_on "python@3.12"
