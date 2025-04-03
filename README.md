@@ -2,7 +2,7 @@
 
 A command-line interface tool for interacting with MCP servers hosted on MCPVerse (https://mcpverse.dev).
 
-Source: https://github.com/village-chat/mcpverse-cli
+mcpverse source code: https://github.com/village-chat/mcpverse-cli
 
 ## Installation
 
@@ -36,3 +36,9 @@ Set up a local MCP proxy server to an MCPVerse server
 ```bash
 mcpv proxy <URL>
 ```
+
+## Contributing
+
+1. Make the changes you want in [mcpverse-cli](https://github.com/village-chat/mcpverse-cli) and open a pull request.
+2. Once it's been merged, we'll create a release.
+3. We'll then push the release to [homebrew-mcpverse](https://github.com/village-chat/homebrew-mcpverse), which will enable the community to install it via homebrew.
